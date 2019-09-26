@@ -1,3 +1,11 @@
 # Description of your program (part 7)
+# In order to count the number of words in a document, start with 0 from the first character of the document,
+# reading character by character from left to right, top to bottom, add 1 to the number of words with every space encountered.
 
 # Reflection on writing your program (part 8)
+# I think my instructions above quite succintly satisfies the requirement. It's not particularly hard but certainly a challenge
+# to make sure that someone cannot interpret the instructions in any other way than what's intended.
+
+# I have never had any experience with Python before so I'm excited this course can introduce to me a new coding language.
+# I'm also hoping this class can help me more with CSS, this is something I think will be the most useful to me
+# but I still need help on.
